@@ -4,7 +4,7 @@
 * create .env file and place in root
 
 ```console
-* npm run dev ( TS dev server )
-* npm run build ( build app )
-* npm start ( run build )
+npm run dev ( TS dev server )
+npm run build ( build app )
+npm start ( run build )
 ```
